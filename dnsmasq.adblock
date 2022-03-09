@@ -21,7 +21,8 @@ address=/ads-uo.api.leiniao.com/0.0.0.0
 address=/ads-ut.api.leiniao.com/0.0.0.0
 address=/ads.api.my7v.com/0.0.0.0
 address=/ads.huan.tv/0.0.0.0
-address=/ads.huantest.comaddress=/ads.huan.tv/0.0.0.0
+address=/ads.huantest.com/0.0.0.0
+address=/ads.huan.tv/0.0.0.0
 address=/ads.mopub.com/0.0.0.0
 address=/ads.trafficjunky.net/0.0.0.0
 address=/adscdn.cedock.com/0.0.0.0

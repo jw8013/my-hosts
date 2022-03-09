@@ -174,7 +174,6 @@
 127.0.0.1 ads.api.my7v.com
 127.0.0.1 ads.huan.tv
 127.0.0.1 ads.huantest.com
-127.0.0.1 ads.huan.tv
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 adscdn.cedock.com
@@ -182,6 +181,8 @@
 127.0.0.1 adss.video.qq.com
 127.0.0.1 adtoken.v.qq.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 aiseet.aa.aisee.tv
+127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 alicdn.epg.huan.tv
 127.0.0.1 analysis.huan.tv
 127.0.0.1 api.ad.xiaomi.com
@@ -224,8 +225,10 @@
 127.0.0.1 itv2-up.openspeech.cn
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 jfapi.chiq-cloud.com
+127.0.0.1 launcher-o.apk.tcloudfamily.com
 127.0.0.1 launcher.TCLoudfamily.com
 127.0.0.1 launcher.smart-tv.cn
+127.0.0.1 launcher.tcloudfamily.com
 127.0.0.1 launcherimg.smart-tv.cn
 127.0.0.1 livemonitor.huan.tv
 127.0.0.1 loc.map.baidu.com
@@ -264,6 +267,8 @@
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 sys-update.ch.hifuntv.com
 127.0.0.1 tclicon.upgrade.huan.tv
+127.0.0.1 tcloudfamily.com
+127.0.0.1 tclupgrade.huantest.com
 127.0.0.1 testads.api.my7v.com
 127.0.0.1 testoverseaupgrade.api.my7v.com
 127.0.0.1 time.chiq-cloud.com
@@ -271,6 +276,8 @@
 127.0.0.1 uapi.chiq-cloud.com
 127.0.0.1 update.cedock.com
 127.0.0.1 update.lejiao.tv
+127.0.0.1 updateback.aisee.tv
+127.0.0.1 updatemain.aisee.tv
 127.0.0.1 upgrade-uo.api.leiniao.com
 127.0.0.1 upgrade.api.my7v.com
 127.0.0.1 upgrade.mishop.pandora.xiaomi.com

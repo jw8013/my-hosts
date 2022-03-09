@@ -116,8 +116,8 @@
 127.0.0.1 mairuan.cn
 127.0.0.1 mairuan.net
 127.0.0.1 mairuan.com.cn
-127.0.0.1  www.idmchina.net
-127.0.0.1  idmchina.net
+127.0.0.1 www.idmchina.net
+127.0.0.1 idmchina.net
 #FUCKMAKD  End#
 #去乐播投屏电视端广告 Start#
 127.0.0.1 sdkauth.hpplay.cn
@@ -219,6 +219,8 @@
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
+127.0.0.1 huan.tv
+127.0.0.1 huantest.com
 127.0.0.1 hwads-t.api.my7v.com
 127.0.0.1 imgad0.pcauto.com.cn
 127.0.0.1 itv2-id.openspeech.cn
@@ -269,6 +271,7 @@
 127.0.0.1 tclicon.upgrade.huan.tv
 127.0.0.1 tcloudfamily.com
 127.0.0.1 tclupgrade.huantest.com
+127.0.0.1 test.launcher.tcloudfamily.com
 127.0.0.1 testads.api.my7v.com
 127.0.0.1 testoverseaupgrade.api.my7v.com
 127.0.0.1 time.chiq-cloud.com

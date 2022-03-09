@@ -173,7 +173,8 @@
 127.0.0.1 ads-ut.api.leiniao.com
 127.0.0.1 ads.api.my7v.com
 127.0.0.1 ads.huan.tv
-127.0.0.1 ads.huantest.com127.0.0.1 ads.huan.tv
+127.0.0.1 ads.huantest.com
+127.0.0.1 ads.huan.tv
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 adscdn.cedock.com
